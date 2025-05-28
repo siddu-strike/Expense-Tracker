@@ -30,24 +30,6 @@ Keep track of your income and expenses with the Expense Tracker app. This React 
 - Delete items from the DOM.
 - Data persistence using local storage.
 
-## Installation
-
-Clone this repository:
-
-```bash
-git clone  https://github.com/MehraDevesh2022/expense-tracker.git
-```
-
-Install dependencies:
-
-```bash
-cd expense-tracker
-npm install
-```
-
-Run the app:
-
-```bash
 
 npm start
 ```
