@@ -1,8 +1,8 @@
-# Expense Tracker
+# Expense Tracker react
 
 Keep track of your income and expenses with the Expense Tracker app. This React project allows you to add and remove items and saves your transactions to local storage.
 
-## Demo
+## Screenshots
 
  ### Landing Page
  
@@ -31,9 +31,3 @@ Keep track of your income and expenses with the Expense Tracker app. This React 
 - Data persistence using local storage.
 
 
-npm start
-```
-
-## Contributing
-
-Pull requests are welcome add some new features or fix any bugs you find.
